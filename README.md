@@ -2,18 +2,18 @@
 My Portfolio of projects done for academic, internship, or personal purposes.
 
 ## Latest projects
-- [Vancouver Crimes Analysis](https://github.com/NawfelBC/Portfolio/tree/main/Data%20Analysis/Vancouver%20Crimes%20Analysis)  
-- [LinkedIn Scraping](https://github.com/NawfelBC/Portfolio/tree/main/Web%20Scraping/Linkedin%20Scraping)
+- [Vancouver Crimes Analysis](https://github.com/NawfelBC/Vancouver_Crime_Analysis)  
+- [Data Scientists Skills Analysis](https://github.com/NawfelBC/Data_Scientists_Skills_Analysis)
 
 
 ## All projects
-- [Data Analysis](https://github.com/NawfelBC/Portfolio/tree/main/Data%20Analysis)
-  - [Airbnb](https://github.com/NawfelBC/Portfolio/tree/main/Data%20Analysis/Airbnb)
-  - [Vancouver Crimes Analysis](https://github.com/NawfelBC/Portfolio/tree/main/Data%20Analysis/Vancouver%20Crimes%20Analysis) 
-- [Web Scraping](https://github.com/NawfelBC/Portfolio/tree/main/Web%20Scraping)
-  - [LinkedIn Scraping](https://github.com/NawfelBC/Portfolio/tree/main/Web%20Scraping/Linkedin%20Scraping)
-  - [Plumber Scraping](https://github.com/NawfelBC/Portfolio/tree/main/Web%20Scraping/Plumber_Scraping) 
-- [Machine Learning](https://github.com/NawfelBC/Portfolio/tree/main/Machine%20Learning)
-  - [Breast Cancer Detection](https://github.com/NawfelBC/Portfolio/tree/main/Data%20Analysis/Breast_Cancer_Detection) 
-  - [Car Tracking](https://github.com/NawfelBC/Portfolio/tree/main/Machine%20Learning/Car%20Tracking)
-  - [Facial Recognition](https://github.com/NawfelBC/Portfolio/tree/main/Machine%20Learning/Facial%20Recognition)
+- Data Analysis
+  - [Airbnb Analysis](https://github.com/NawfelBC/Airbnb_Analysis)
+  - [Vancouver Crimes Analysis](https://github.com/NawfelBC/Vancouver_Crime_Analysis) 
+- Web Scraping
+  - [Data Scientists Skills Analysis](https://github.com/NawfelBC/Data_Scientists_Skills_Analysis)
+  - [Plumber Scraping](https://github.com/NawfelBC/Plumber_Scraping) 
+- Machine Learning
+  - [Breast Cancer Detection](https://github.com/NawfelBC/Breast_Cancer_Detection) 
+  - [Car Tracking](https://github.com/NawfelBC/Car_Tracking)
+  - [Facial Recognition Eigenfaces](https://github.com/NawfelBC/Facial_Recognition_Eigenfaces)
