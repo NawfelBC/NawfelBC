@@ -12,6 +12,7 @@ My Portfolio of projects done for academic, internship, or personal purposes.
   - [Vancouver Crimes Analysis](https://github.com/NawfelBC/Vancouver_Crime_Analysis) 
 - Web Scraping
   - [Data Scientists Skills Analysis](https://github.com/NawfelBC/Data_Scientists_Skills_Analysis)
+  - [html2json](https://github.com/NawfelBC/html2json)
   - [Plumber Scraping](https://github.com/NawfelBC/Plumber_Scraping) 
 - Machine Learning
   - [Breast Cancer Detection](https://github.com/NawfelBC/Breast_Cancer_Detection) 
