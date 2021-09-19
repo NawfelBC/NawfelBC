@@ -3,7 +3,7 @@
 <h3 align="center">  
 My Portfolio of projects done for academic, internship, or personal purposes.
 <br></br>
-<img src="https://user-images.githubusercontent.com/79513906/133940913-1c1ca975-fb28-4655-a245-0c09c034e93c.gif">  
+<img src="https://user-images.githubusercontent.com/79513906/133940913-1c1ca975-fb28-4655-a245-0c09c034e93c.gif" width=450 height=250>  
 </h3>
 
 ## Latest projects
