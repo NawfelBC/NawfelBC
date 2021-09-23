@@ -23,6 +23,6 @@ Projects done for academic, internship, or personal purposes.
   - [Breast Cancer Detection](https://github.com/NawfelBC/Breast_Cancer_Detection) 
   - [Car Tracking](https://github.com/NawfelBC/Car_Tracking)
   - [Facial Recognition Eigenfaces](https://github.com/NawfelBC/Facial_Recognition_Eigenfaces)
-- Apps/Bots
+- Mobile Apps/Bots
   - [Diary](https://github.com/NawfelBC/Diary_App)
   - [Twitter Bot](https://github.com/NawfelBC/Twitter-Bot)
