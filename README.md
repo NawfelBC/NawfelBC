@@ -6,9 +6,10 @@ Projects done for academic, internship, or personal purposes.
 </h3>
 
 ## Latest projects
-- [Twitter Bot](https://github.com/NawfelBC/Twitter-Bot)
-- [Vancouver Crimes Analysis](https://github.com/NawfelBC/Vancouver_Crime_Analysis)  
+- [Diary](https://github.com/NawfelBC/Diary_App)
 - [Data Scientists Skills Analysis](https://github.com/NawfelBC/Data_Scientists_Skills_Analysis)
+- [Twitter Bot](https://github.com/NawfelBC/Twitter-Bot)
+- [Vancouver Crimes Analysis](https://github.com/NawfelBC/Vancouver_Crime_Analysis)
 
 
 ## All projects
