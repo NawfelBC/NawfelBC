@@ -7,6 +7,20 @@
 
 <h3 style="font-size:20vw"><p align="center">Here, you will find some of my projects done for academic, internship, or personal purposes.</p></h1>  
 
+## Languages & Tools
+<p align="center">
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" alt="scala" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="75" height="72"/>
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" width="105" height="65"/>
+      <img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="r" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="c" width="50" height="55"/>
+      <img src="https://static.cdnlogo.com/logos/c/27/c.svg" alt="c#" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="45"/>
+      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="flutter" width="80" height="55"/>
+</p>
+
 ## Latest projects
 - [Diary](https://github.com/NawfelBC/Diary_App)
 - [Data Scientists Skills Analysis](https://github.com/NawfelBC/Data_Scientists_Skills_Analysis)
