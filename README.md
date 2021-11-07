@@ -34,8 +34,8 @@
   - [html2json](https://github.com/NawfelBC/html2json)
   - [Plumber Scraping](https://github.com/NawfelBC/Plumber_Scraping) 
 - Data Analysis
-  - [Airbnb Analysis](https://github.com/NawfelBC/Airbnb_Analysis)
-  - [Vancouver Crimes Analysis](https://github.com/NawfelBC/Vancouver_Crime_Analysis) 
+  - [Vancouver Crimes Analysis](https://github.com/NawfelBC/Vancouver_Crime_Analysis)
+  - [Airbnb Analysis](https://github.com/NawfelBC/Airbnb_Analysis) 
 - Machine Learning
   - [Breast Cancer Detection](https://github.com/NawfelBC/Breast_Cancer_Detection) 
   - [Car Tracking](https://github.com/NawfelBC/Car_Tracking)
