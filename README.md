@@ -22,6 +22,7 @@
 </p>
 
 ## Latest projects
+- [Lossless Data Compression](https://github.com/NawfelBC/Lossless_Data_Compression)
 - [Diary](https://github.com/NawfelBC/Diary_App)
 - [Data Scientists Skills Analysis](https://github.com/NawfelBC/Data_Scientists_Skills_Analysis)
 - [Twitter Bot](https://github.com/NawfelBC/Twitter-Bot)
@@ -43,3 +44,5 @@
 - Mobile Apps/Bots
   - [Diary](https://github.com/NawfelBC/Diary_App)
   - [Twitter Bot](https://github.com/NawfelBC/Twitter-Bot)
+- Other
+  - [Lossless Data Compression](https://github.com/NawfelBC/Lossless_Data_Compression) 
