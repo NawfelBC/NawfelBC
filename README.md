@@ -3,7 +3,7 @@
 
 <h1 style="font-size:20vw"><p align="center"><text font-size="16"> Hi, I'm Nawfel 👋 </text></p></h1>
 
-<h3 style="font-size:20vw"><p align="center"> Engineering student in Applied Mathematics and Computer Science at CY Tech in France.</p></h1>  
+<h3 style="font-size:20vw"><p align="center"> Engineering student in Applied Mathematics and Data Science, specialized in High Performance Data Analytics at CY Tech in France.</p></h1>  
 
 <h3 style="font-size:20vw"><p align="center">Here, you will find some of my projects done for academic, internship, or personal purposes.</p></h1>  
 
