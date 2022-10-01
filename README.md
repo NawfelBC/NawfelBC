@@ -15,6 +15,7 @@
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" width="125" height="65"/>
       <img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="r" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="55" height="55"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="c" width="50" height="55"/>
       <img src="https://static.cdnlogo.com/logos/c/27/c.svg" alt="c#" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="45"/>
