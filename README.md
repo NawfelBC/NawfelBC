@@ -32,10 +32,11 @@
 
 
 ## All projects
-- Web Scraping
+- ETL/Web Scraping
   - [html2json](https://github.com/NawfelBC/html2json)
   - [Plumber Scraping](https://github.com/NawfelBC/Plumber_Scraping)
   - [Hotels Scraping](https://github.com/NawfelBC/hotels_scraping)
+  - [ETL WebToDiscord](https://github.com/NawfelBC/ETL_WebToDiscord)
 - Data Analysis
   - [Data Scientists Skills Analysis](https://github.com/NawfelBC/Data_Scientists_Skills_Analysis)
   - [Vancouver Crimes Analysis](https://github.com/NawfelBC/Vancouver_Crime_Analysis)
