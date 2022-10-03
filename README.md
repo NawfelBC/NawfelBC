@@ -23,6 +23,7 @@
 </p>
 
 ## Latest projects
+- [ETL WebToDiscord](https://github.com/NawfelBC/ETL_WebToDiscord)
 - [Lossless Data Compression](https://github.com/NawfelBC/Lossless_Data_Compression)
 - [Diary](https://github.com/NawfelBC/Diary_App)
 - [Data Scientists Skills Analysis](https://github.com/NawfelBC/Data_Scientists_Skills_Analysis)
