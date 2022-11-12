@@ -25,10 +25,10 @@
 ## Latest projects
 - [Astrafy THC](https://github.com/NawfelBC/astrafy-thc)
 - [ETL WebToDiscord](https://github.com/NawfelBC/ETL_WebToDiscord)
-- [Lossless Data Compression](https://github.com/NawfelBC/Lossless_Data_Compression)
 - [Diary](https://github.com/NawfelBC/Diary_App)
 - [Data Scientists Skills Analysis](https://github.com/NawfelBC/Data_Scientists_Skills_Analysis)
 - [Twitter Bot](https://github.com/NawfelBC/Twitter-Bot)
+- [Lossless Data Compression](https://github.com/NawfelBC/Lossless_Data_Compression)
 - [Vancouver Crimes Analysis](https://github.com/NawfelBC/Vancouver_Crime_Analysis)
 
 
