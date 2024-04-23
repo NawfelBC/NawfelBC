@@ -8,16 +8,13 @@
 ## Languages & Tools
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" alt="scala" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="75" height="72"/>
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" width="125" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="r" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
+      <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt" width="55" height="55"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Google-cloud-platform.svg" alt="gcp" width="55" height="55"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="55" height="45"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="git" width="55" height="45"/>
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="55" height="55"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="c" width="50" height="55"/>
-      <img src="https://static.cdnlogo.com/logos/c/27/c.svg" alt="c#" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="45"/>
-      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="flutter" width="100" height="55"/>
+      <img src="https://github.com/benc-uk/icon-collection/blob/master/azure-docs/logo_terraform.svg" alt="git" width="55" height="45"/>
 </p>
 
 ## Latest projects
